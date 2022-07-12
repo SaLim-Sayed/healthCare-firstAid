@@ -54,7 +54,7 @@ input{
   font-size: larger;
   color: rgb(228, 243, 255);
   text-align: left;
-
+ width: 100%;
   padding-left: 10px;
 }
 .lbl{
@@ -68,7 +68,7 @@ input{
   color: aliceblue;
   text-align: right;
   padding-right: 10px;
- 
+  width: 100%;
 }
 
 .pred{
