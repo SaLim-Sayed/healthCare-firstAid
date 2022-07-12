@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/healthCare-firstAid/static/css/main.17b037d6.css",
-    "main.js": "/healthCare-firstAid/static/js/main.606ad3c5.js",
+    "main.css": "/healthCare-firstAid/static/css/main.fbe0209e.css",
+    "main.js": "/healthCare-firstAid/static/js/main.9caa7253.js",
     "static/media/175-1758883_medical-background-free-image-background-for-hospital-website.png": "/healthCare-firstAid/static/media/175-1758883_medical-background-free-image-background-for-hospital-website.f57cec241d1d33641b03.png",
     "index.html": "/healthCare-firstAid/index.html",
-    "main.17b037d6.css.map": "/healthCare-firstAid/static/css/main.17b037d6.css.map",
-    "main.606ad3c5.js.map": "/healthCare-firstAid/static/js/main.606ad3c5.js.map"
+    "main.fbe0209e.css.map": "/healthCare-firstAid/static/css/main.fbe0209e.css.map",
+    "main.9caa7253.js.map": "/healthCare-firstAid/static/js/main.9caa7253.js.map"
   },
   "entrypoints": [
-    "static/css/main.17b037d6.css",
-    "static/js/main.606ad3c5.js"
+    "static/css/main.fbe0209e.css",
+    "static/js/main.9caa7253.js"
   ]
 }
