@@ -34,9 +34,9 @@ export class Forms extends Component {
             <div className="App">
                 <div className='container bord'>
                     <div className="check">
-                        <h1 className=' lbl'>
+                        <h1 className=' lbl'>Enter a description of your pain
                             {/*  <input    value={this.state.value}  onKeyUp={() => this.predictionHandle()} onChange={this.setValue} /> */}
-                            <button className='btn  mx-2  ' onClick={() => this.predictionHandle()}>  <input placeholder='Enter a description of your pain ' value={this.state.value} onKeyUp={() => this.predictionHandle()} onChange={this.setValue} />
+                            <button className='btn  mx-2  ' onClick={() => this.predictionHandle()}>  <input  value={this.state.value} onKeyUp={() => this.predictionHandle()} onChange={this.setValue} />
                                 <button className='btn btn-success mx-2'><HiSearch /></button>
                             </button>
                         </h1>
